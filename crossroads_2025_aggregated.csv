@@ -1,0 +1,253 @@
+section,month,category,platform,amount,count
+plan_revenue,2025-01,One-Day $60,PayPal,861.3,15.0
+plan_revenue,2025-01,One-Day Discounted $40,PayPal,152.44,4.0
+plan_revenue,2025-01,Two-Day $80,PayPal,613.76,8.0
+plan_revenue,2025-01,Two-Day Discounted $60,PayPal,172.26,3.0
+plan_revenue,2025-01,Unlimited $100,PayPal,172.74,2.0
+plan_revenue,2025-02,One-Day $60,PayPal,976.14,17.0
+plan_revenue,2025-02,One-Day Discounted $40,PayPal,152.44,4.0
+plan_revenue,2025-02,Two-Day $80,PayPal,690.48,9.0
+plan_revenue,2025-02,Two-Day Discounted $60,PayPal,229.68,4.0
+plan_revenue,2025-02,Unlimited $100,PayPal,172.74,2.0
+plan_revenue,2025-03,One-Day $60,PayPal,1148.4,20.0
+plan_revenue,2025-03,One-Day Discounted $40,PayPal,152.44,4.0
+plan_revenue,2025-03,Two-Day $80,PayPal,537.04,7.0
+plan_revenue,2025-03,Two-Day Discounted $60,PayPal,229.68,4.0
+plan_revenue,2025-03,Unlimited $100,PayPal,96.02,1.0
+plan_revenue,2025-04,One-Day $60,PayPal,1147.5,20.0
+plan_revenue,2025-04,One-Day Discounted $40,PayPal,76.22,2.0
+plan_revenue,2025-04,Two-Day $80,PayPal,537.04,7.0
+plan_revenue,2025-04,Two-Day Discounted $60,PayPal,287.1,5.0
+plan_revenue,2025-04,Unlimited $100,PayPal,192.04,2.0
+plan_revenue,2025-05,One-Day $60,PayPal,1147.5,20.0
+plan_revenue,2025-05,One-Day Discounted $40,PayPal,152.44,4.0
+plan_revenue,2025-05,Two-Day $80,PayPal,613.76,8.0
+plan_revenue,2025-05,Two-Day Discounted $60,PayPal,344.52,6.0
+plan_revenue,2025-05,Unlimited $100,PayPal,288.06,3.0
+plan_revenue,2025-06,One-Day $60,PayPal,1204.92,21.0
+plan_revenue,2025-06,One-Day Discounted $40,PayPal,114.33,3.0
+plan_revenue,2025-06,Two-Day $80,PayPal,613.76,8.0
+plan_revenue,2025-06,Two-Day Discounted $60,PayPal,344.52,6.0
+plan_revenue,2025-06,Unlimited $100,PayPal,288.06,3.0
+plan_revenue,2025-07,One-Day $60,PayPal,1204.92,21.0
+plan_revenue,2025-07,One-Day Discounted $40,PayPal,114.33,3.0
+plan_revenue,2025-07,Two-Day $80,PayPal,537.04,7.0
+plan_revenue,2025-07,Two-Day Discounted $60,PayPal,401.94,7.0
+plan_revenue,2025-07,Unlimited $100,PayPal,288.06,3.0
+plan_revenue,2025-08,One-Day $60,PayPal,1205.82,21.0
+plan_revenue,2025-08,One-Day Discounted $40,PayPal,76.22,2.0
+plan_revenue,2025-08,Two-Day $80,PayPal,460.32,6.0
+plan_revenue,2025-08,Two-Day Discounted $60,PayPal,344.52,6.0
+plan_revenue,2025-08,Unlimited $100,PayPal,192.04,2.0
+plan_revenue,2025-09,One-Day $60,PayPal,861.3,15.0
+plan_revenue,2025-09,Two-Day $80,PayPal,230.16,3.0
+plan_revenue,2025-09,Two-Day Discounted $60,PayPal,172.26,3.0
+plan_revenue,2025-09,Unlimited $100,PayPal,192.04,2.0
+plan_revenue,2025-10,One-Day $60,PayPal,516.78,9.0
+plan_revenue,2025-10,Two-Day $80,PayPal,76.72,1.0
+plan_revenue,2025-10,Two-Day Discounted $60,PayPal,172.26,3.0
+plan_revenue,2025-10,Unlimited $100,PayPal,96.02,1.0
+plan_revenue,2025-11,One-Day $60,PayPal,401.94,7.0
+plan_revenue,2025-11,Two-Day $80,PayPal,76.72,1.0
+plan_revenue,2025-11,Two-Day Discounted $60,PayPal,114.84,2.0
+plan_revenue,2025-11,Unlimited $100,PayPal,96.02,1.0
+plan_revenue,2025-12,One-Day $60,PayPal,287.1,5.0
+plan_revenue,2025-12,Two-Day $80,PayPal,76.72,1.0
+plan_revenue,2025-12,Two-Day Discounted $60,PayPal,57.42,1.0
+plan_revenue,2025-08,One-Day $60,PushPress,240.0,4.0
+plan_revenue,2025-08,One-Day Discounted $40,PushPress,40.0,1.0
+plan_revenue,2025-08,Two-Day $80,PushPress,240.0,3.0
+plan_revenue,2025-08,Unlimited $100,PushPress,100.0,1.0
+plan_revenue,2025-09,One-Day $60,PushPress,780.0,13.0
+plan_revenue,2025-09,One-Day Discounted $40,PushPress,200.0,5.0
+plan_revenue,2025-09,Two-Day $80,PushPress,480.0,6.0
+plan_revenue,2025-09,Two-Day Discounted $60,PushPress,60.0,1.0
+plan_revenue,2025-09,Unlimited $100,PushPress,400.0,4.0
+plan_revenue,2025-10,One-Day $60,PushPress,900.0,15.0
+plan_revenue,2025-10,One-Day Discounted $40,PushPress,200.0,5.0
+plan_revenue,2025-10,Two-Day $80,PushPress,480.0,6.0
+plan_revenue,2025-10,Two-Day Discounted $60,PushPress,180.0,3.0
+plan_revenue,2025-10,Unlimited $100,PushPress,900.0,9.0
+plan_revenue,2025-11,One-Day $60,PushPress,840.0,14.0
+plan_revenue,2025-11,One-Day Discounted $40,PushPress,200.0,5.0
+plan_revenue,2025-11,Two-Day $80,PushPress,400.0,5.0
+plan_revenue,2025-11,Two-Day Discounted $60,PushPress,180.0,3.0
+plan_revenue,2025-11,Unlimited $100,PushPress,700.0,7.0
+plan_revenue,2025-12,One-Day $60,PushPress,600.0,10.0
+plan_revenue,2025-12,One-Day Discounted $40,PushPress,240.0,6.0
+plan_revenue,2025-12,Two-Day $80,PushPress,400.0,5.0
+plan_revenue,2025-12,Two-Day Discounted $60,PushPress,180.0,3.0
+plan_revenue,2025-12,Unlimited $100,PushPress,800.0,8.0
+plan_revenue,2025-12,Volunteer $40,PushPress,160.0,4.0
+paypal_refunds,2025-07,One-Day $60,PayPal,-188.0,4.0
+paypal_refunds,2025-07,One-Day Discounted $40,PayPal,-40.0,1.0
+paypal_refunds,2025-10,One-Day $60,PayPal,-120.0,2.0
+paypal_refunds,2025-10,Two-Day Discounted $60,PayPal,-60.0,1.0
+paypal_refunds,2025-11,One-Day $60,PayPal,-60.0,1.0
+paypal_refunds,2025-11,Unlimited $100,PayPal,-100.0,1.0
+platform_income,2025-01,Monthly Total,PayPal,1972.5,
+platform_income,2025-01,Monthly Total,PushPress,0.0,
+monthly_members,2025-01,One-Day $60,Both,,15.0
+monthly_members,2025-01,One-Day Discounted $40,Both,,4.0
+monthly_members,2025-01,Two-Day $80,Both,,8.0
+monthly_members,2025-01,Two-Day Discounted $60,Both,,2.0
+monthly_members,2025-01,Unlimited $100,Both,,2.0
+monthly_members,2025-01,Volunteer $40,Both,,0.0
+monthly_cash,2025-01,income,All,2231.31,
+monthly_cash,2025-01,expenses,All,5103.86,
+monthly_cash,2025-01,net,All,-2872.55,
+cost_group,2025-01,Fixed,All,155.6,
+cost_group,2025-01,Regular,All,519.28,
+platform_income,2025-02,Monthly Total,PayPal,2221.48,
+platform_income,2025-02,Monthly Total,PushPress,0.0,
+monthly_members,2025-02,One-Day $60,Both,,17.0
+monthly_members,2025-02,One-Day Discounted $40,Both,,4.0
+monthly_members,2025-02,Two-Day $80,Both,,9.0
+monthly_members,2025-02,Two-Day Discounted $60,Both,,3.0
+monthly_members,2025-02,Unlimited $100,Both,,2.0
+monthly_members,2025-02,Volunteer $40,Both,,0.0
+monthly_cash,2025-02,income,All,2261.82,
+monthly_cash,2025-02,expenses,All,617.38,
+monthly_cash,2025-02,net,All,1644.44,
+cost_group,2025-02,Fixed,All,2.0,
+cost_group,2025-02,Regular,All,254.55,
+platform_income,2025-03,Monthly Total,PayPal,2163.58,
+platform_income,2025-03,Monthly Total,PushPress,0.0,
+monthly_members,2025-03,One-Day $60,Both,,20.0
+monthly_members,2025-03,One-Day Discounted $40,Both,,4.0
+monthly_members,2025-03,Two-Day $80,Both,,7.0
+monthly_members,2025-03,Two-Day Discounted $60,Both,,3.0
+monthly_members,2025-03,Unlimited $100,Both,,1.0
+monthly_members,2025-03,Volunteer $40,Both,,0.0
+monthly_cash,2025-03,income,All,2294.53,
+monthly_cash,2025-03,expenses,All,286.53,
+monthly_cash,2025-03,net,All,2008.0,
+cost_group,2025-03,Fixed,All,2.0,
+cost_group,2025-03,Regular,All,6.49,
+platform_income,2025-04,Monthly Total,PayPal,2239.9,
+platform_income,2025-04,Monthly Total,PushPress,0.0,
+monthly_members,2025-04,One-Day $60,Both,,20.0
+monthly_members,2025-04,One-Day Discounted $40,Both,,2.0
+monthly_members,2025-04,Two-Day $80,Both,,7.0
+monthly_members,2025-04,Two-Day Discounted $60,Both,,4.0
+monthly_members,2025-04,Unlimited $100,Both,,2.0
+monthly_members,2025-04,Volunteer $40,Both,,0.0
+monthly_cash,2025-04,income,All,2859.01,
+monthly_cash,2025-04,expenses,All,1784.9,
+monthly_cash,2025-04,net,All,1074.11,
+cost_group,2025-04,Fixed,All,2.0,
+cost_group,2025-04,Regular,All,119.72,
+platform_income,2025-05,Monthly Total,PayPal,2546.28,
+platform_income,2025-05,Monthly Total,PushPress,0.0,
+monthly_members,2025-05,One-Day $60,Both,,20.0
+monthly_members,2025-05,One-Day Discounted $40,Both,,3.0
+monthly_members,2025-05,Two-Day $80,Both,,7.0
+monthly_members,2025-05,Two-Day Discounted $60,Both,,5.0
+monthly_members,2025-05,Unlimited $100,Both,,3.0
+monthly_members,2025-05,Volunteer $40,Both,,0.0
+monthly_cash,2025-05,income,All,3276.92,
+monthly_cash,2025-05,expenses,All,1808.32,
+monthly_cash,2025-05,net,All,1468.6,
+cost_group,2025-05,Fixed,All,1273.87,
+cost_group,2025-05,Regular,All,160.33,
+platform_income,2025-06,Monthly Total,PayPal,2854.63,
+platform_income,2025-06,Monthly Total,PushPress,0.0,
+monthly_members,2025-06,One-Day $60,Both,,20.0
+monthly_members,2025-06,One-Day Discounted $40,Both,,3.0
+monthly_members,2025-06,Two-Day $80,Both,,8.0
+monthly_members,2025-06,Two-Day Discounted $60,Both,,5.0
+monthly_members,2025-06,Unlimited $100,Both,,3.0
+monthly_members,2025-06,Volunteer $40,Both,,0.0
+monthly_cash,2025-06,income,All,3160.72,
+monthly_cash,2025-06,expenses,All,3731.85,
+monthly_cash,2025-06,net,All,-571.13,
+cost_group,2025-06,Fixed,All,22.0,
+cost_group,2025-06,Regular,All,-0.0,
+platform_income,2025-07,Monthly Total,PayPal,2318.29,
+platform_income,2025-07,Monthly Total,PushPress,0.0,
+monthly_members,2025-07,One-Day $60,Both,,21.0
+monthly_members,2025-07,One-Day Discounted $40,Both,,3.0
+monthly_members,2025-07,Two-Day $80,Both,,7.0
+monthly_members,2025-07,Two-Day Discounted $60,Both,,6.0
+monthly_members,2025-07,Unlimited $100,Both,,3.0
+monthly_members,2025-07,Volunteer $40,Both,,0.0
+monthly_cash,2025-07,income,All,2488.18,
+monthly_cash,2025-07,expenses,All,5406.63,
+monthly_cash,2025-07,net,All,-2918.45,
+cost_group,2025-07,Fixed,All,1338.49,
+cost_group,2025-07,Regular,All,1700.39,
+platform_income,2025-08,Monthly Total,PayPal,2278.92,
+platform_income,2025-08,Monthly Total,PushPress,620.0,
+monthly_members,2025-08,One-Day $60,Both,,23.0
+monthly_members,2025-08,One-Day Discounted $40,Both,,2.0
+monthly_members,2025-08,Two-Day $80,Both,,9.0
+monthly_members,2025-08,Two-Day Discounted $60,Both,,5.0
+monthly_members,2025-08,Unlimited $100,Both,,3.0
+monthly_members,2025-08,Volunteer $40,Both,,0.0
+monthly_cash,2025-08,income,All,5408.57,
+monthly_cash,2025-08,expenses,All,6034.43,
+monthly_cash,2025-08,net,All,-625.86,
+cost_group,2025-08,Fixed,All,2088.63,
+cost_group,2025-08,Regular,All,692.21,
+platform_income,2025-09,Monthly Total,PayPal,1455.76,
+platform_income,2025-09,Monthly Total,PushPress,1920.0,
+monthly_members,2025-09,One-Day $60,Both,,23.0
+monthly_members,2025-09,One-Day Discounted $40,Both,,4.0
+monthly_members,2025-09,Two-Day $80,Both,,9.0
+monthly_members,2025-09,Two-Day Discounted $60,Both,,4.0
+monthly_members,2025-09,Unlimited $100,Both,,4.0
+monthly_members,2025-09,Volunteer $40,Both,,0.0
+monthly_cash,2025-09,income,All,4143.49,
+monthly_cash,2025-09,expenses,All,3422.71,
+monthly_cash,2025-09,net,All,720.78,
+cost_group,2025-09,Fixed,All,2260.0,
+cost_group,2025-09,Regular,All,766.77,
+platform_income,2025-10,Monthly Total,PayPal,681.78,
+platform_income,2025-10,Monthly Total,PushPress,2660.0,
+monthly_members,2025-10,One-Day $60,Both,,22.0
+monthly_members,2025-10,One-Day Discounted $40,Both,,5.0
+monthly_members,2025-10,Two-Day $80,Both,,7.0
+monthly_members,2025-10,Two-Day Discounted $60,Both,,6.0
+monthly_members,2025-10,Unlimited $100,Both,,9.0
+monthly_members,2025-10,Volunteer $40,Both,,0.0
+monthly_cash,2025-10,income,All,5051.96,
+monthly_cash,2025-10,expenses,All,3846.02,
+monthly_cash,2025-10,net,All,1205.94,
+cost_group,2025-10,Fixed,All,2352.92,
+cost_group,2025-10,Regular,All,334.09,
+platform_income,2025-11,Monthly Total,PayPal,529.52,
+platform_income,2025-11,Monthly Total,PushPress,2320.0,
+monthly_members,2025-11,One-Day $60,Both,,21.0
+monthly_members,2025-11,One-Day Discounted $40,Both,,5.0
+monthly_members,2025-11,Two-Day $80,Both,,6.0
+monthly_members,2025-11,Two-Day Discounted $60,Both,,5.0
+monthly_members,2025-11,Unlimited $100,Both,,8.0
+monthly_members,2025-11,Volunteer $40,Both,,0.0
+monthly_cash,2025-11,income,All,4194.69,
+monthly_cash,2025-11,expenses,All,4706.93,
+monthly_cash,2025-11,net,All,-512.24,
+cost_group,2025-11,Fixed,All,2331.57,
+cost_group,2025-11,Regular,All,975.28,
+platform_income,2025-12,Monthly Total,PayPal,421.24,
+platform_income,2025-12,Monthly Total,PushPress,2380.0,
+monthly_members,2025-12,One-Day $60,Both,,15.0
+monthly_members,2025-12,One-Day Discounted $40,Both,,6.0
+monthly_members,2025-12,Two-Day $80,Both,,6.0
+monthly_members,2025-12,Two-Day Discounted $60,Both,,4.0
+monthly_members,2025-12,Unlimited $100,Both,,8.0
+monthly_members,2025-12,Volunteer $40,Both,,4.0
+monthly_cash,2025-12,income,All,4370.86,
+monthly_cash,2025-12,expenses,All,3953.73,
+monthly_cash,2025-12,net,All,417.13,
+cost_group,2025-12,Fixed,All,2142.04,
+cost_group,2025-12,Regular,All,158.57,
+event_sales,2025-05,Steel Jam V,Ticket Sales,3071.59,
+event_sales,2025-08,Steel Jam VI,Ticket Sales,2319.5,
+event_sales,2025-11,Steel Jam VII,Ticket Sales,2997.25,
+annual_summary,2025,Event Expense Pool,All,7988.25,
+annual_summary,2025,Annual Sales,All,8388.34,
+annual_summary,2025,Year-End Cash,All,10769.04,
+annual_summary,2025,Fixed Monthly Costs,All,2201.02,
+annual_summary,2025,Broader Monthly Costs,All,2856.83,
+annual_summary,2025,Observed Weighted Plan Price,All,67.15,
+annual_summary,2025,Baseline MAE,All,191.51,
